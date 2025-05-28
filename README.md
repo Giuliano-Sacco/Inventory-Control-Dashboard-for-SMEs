@@ -1,4 +1,4 @@
-📦 Inventory Control Dashboard for SMEs
+# 📦 Inventory Control Dashboard for SMEs
 
 This is a full-stack inventory management system designed for small and medium-sized businesses (SMEs). It includes a **Node.js** backend with a RESTful API, administrator login, product and stock management, and a simple web interface built with either plain HTML or React.
 
@@ -43,7 +43,7 @@ This is a full-stack inventory management system designed for small and medium-s
 
 ## 📂 Project Structure
 
-```
+
 
 📁 src/
 ├── controllers/
